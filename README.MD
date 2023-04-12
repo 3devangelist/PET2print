@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/17902658/231412257-9b8fcc42-aa2b-4f6b-8bd0-c8255e116c2e.png)
+
 # PET2PRint Comunity
 
 Bem-vindo à nossa comunidade de PET2Filament! Somos uma comunidade portuguesa dedicada a todas as pessoas que desejam se envolver na reciclagem de PET e na criação de filamentos para impressoras 3D.
